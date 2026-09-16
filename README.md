@@ -8,7 +8,29 @@ Semantic model snapshot : https://github.com/emadfayed011190/Power-BI-Data-Model
 ----------------------------------------
 ## Project Requirements
 
-### Building The Data Warehouse (Data Engineering)
+### Building The Data model (Data modelling)
 
 #### objective
-Develop a modern data warehouse using SQL to consolidate sales data, enabling Analytical reports and informed decision making.
+Develop data model using power bi to consolidate sales data, enabling Analytical reports and informed decision making.
+
+#### specifications 
+- **Data Sources**: import data from sourse systems provided as excel files.
+- **Data Quality**: Cleanse and resolve data quality issues to analysis
+- **integration**: user friendly data model designed for analytical queries.
+- **Scope**: Defined a clear documentation of the data model to support visualization and business and stockholders, and analytical teams.
+
+-------------------------------------------------
+### BI Analytics & Reporting (Data Analytics)
+#### objective
+Develop Power BI-based analytics to deliver detailed insights into
+**customer behavior**
+**product performance**
+**sales trends**
+**inventory movement**
+**campgain details**
+
+these insights empower stack holders with key business metrics, enabling strategic decision making.
+
+## About Me
+Hi there! I'm **Emad Fayed Ismael** and i am BI & Data Analytics Engineer worked on many fields like Fintech, Sales, Hiring, Supply Chain..etc.
+
